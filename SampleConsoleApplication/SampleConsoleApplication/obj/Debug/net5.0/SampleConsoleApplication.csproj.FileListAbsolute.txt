@@ -1,0 +1,16 @@
+D:\Jenkins\SampleCsharp_Project\SampleConsoleApplication\SampleConsoleApplication\bin\Debug\net5.0\SampleConsoleApplication.exe
+D:\Jenkins\SampleCsharp_Project\SampleConsoleApplication\SampleConsoleApplication\bin\Debug\net5.0\SampleConsoleApplication.deps.json
+D:\Jenkins\SampleCsharp_Project\SampleConsoleApplication\SampleConsoleApplication\bin\Debug\net5.0\SampleConsoleApplication.runtimeconfig.json
+D:\Jenkins\SampleCsharp_Project\SampleConsoleApplication\SampleConsoleApplication\bin\Debug\net5.0\SampleConsoleApplication.runtimeconfig.dev.json
+D:\Jenkins\SampleCsharp_Project\SampleConsoleApplication\SampleConsoleApplication\bin\Debug\net5.0\SampleConsoleApplication.dll
+D:\Jenkins\SampleCsharp_Project\SampleConsoleApplication\SampleConsoleApplication\bin\Debug\net5.0\ref\SampleConsoleApplication.dll
+D:\Jenkins\SampleCsharp_Project\SampleConsoleApplication\SampleConsoleApplication\bin\Debug\net5.0\SampleConsoleApplication.pdb
+D:\Jenkins\SampleCsharp_Project\SampleConsoleApplication\SampleConsoleApplication\obj\Debug\net5.0\SampleConsoleApplication.csprojAssemblyReference.cache
+D:\Jenkins\SampleCsharp_Project\SampleConsoleApplication\SampleConsoleApplication\obj\Debug\net5.0\SampleConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jenkins\SampleCsharp_Project\SampleConsoleApplication\SampleConsoleApplication\obj\Debug\net5.0\SampleConsoleApplication.AssemblyInfoInputs.cache
+D:\Jenkins\SampleCsharp_Project\SampleConsoleApplication\SampleConsoleApplication\obj\Debug\net5.0\SampleConsoleApplication.AssemblyInfo.cs
+D:\Jenkins\SampleCsharp_Project\SampleConsoleApplication\SampleConsoleApplication\obj\Debug\net5.0\SampleConsoleApplication.csproj.CoreCompileInputs.cache
+D:\Jenkins\SampleCsharp_Project\SampleConsoleApplication\SampleConsoleApplication\obj\Debug\net5.0\SampleConsoleApplication.dll
+D:\Jenkins\SampleCsharp_Project\SampleConsoleApplication\SampleConsoleApplication\obj\Debug\net5.0\ref\SampleConsoleApplication.dll
+D:\Jenkins\SampleCsharp_Project\SampleConsoleApplication\SampleConsoleApplication\obj\Debug\net5.0\SampleConsoleApplication.pdb
+D:\Jenkins\SampleCsharp_Project\SampleConsoleApplication\SampleConsoleApplication\obj\Debug\net5.0\SampleConsoleApplication.genruntimeconfig.cache
